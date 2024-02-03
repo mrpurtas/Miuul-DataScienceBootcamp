@@ -41,5 +41,4 @@
   - Telco Customer Churn Prediction Model
   - House Prices Prediction Model
   - Machine Learning Pipeline
-
-#### continues...
+- MS SQL
